@@ -1,0 +1,11 @@
+name: SpigotFriend
+version: '1.0'
+main: be.kingquest.spigotFriend.SpigotFriend
+api-version: '1.20'
+authors: [ [ KingQuest ] ]
+commands:
+  freunde:
+  friends:
+  friend:
+  freundschaftanfragen:
+  friendrequest:
